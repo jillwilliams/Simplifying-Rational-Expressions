@@ -1,0 +1,73 @@
+body {
+    margin: 25px 25px;
+    background-color: #FF007F;
+    font-family: "Quicksand", cursive;
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+    color: chartreuse;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: chartreuse;
+    text-shadow: 2px 2px 1px aquamarine;
+}
+#pic1, #pic2, #pic3, #pic4, #pic5, #pic6, #pic8, #pic9 {
+    width: 50%;
+    height: auto;
+    margin: 15px 25%;
+    border: 1px white solid;
+}
+#pic6, #pic7 {
+    width: 20%;
+    height: auto;
+    margin: 15px 40%;
+    border: 1px white solid;
+}
+#input1, #input2 {
+    width: 20%;
+    height: 60px;
+    margin: 15px 40%;
+    border: 2px chartreuse solid;
+    outline: 1px white solid;
+    font-family: "Quicksand", cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    background-color: aquamarine;
+}
+#myBtn {
+    width: 10%;
+    height: 60px;
+    margin: 15px 45%;
+    border: 2px chartreuse solid;
+    outline: 1px white solid;
+    font-family: "Quicksand", cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    background-color: aquamarine;
+}
+#demo, #demo2 {
+    width: 30%;
+    height: 60px;
+    margin: 15px 35%;
+    border: 2px chartreuse solid;
+    outline: 1px white solid;
+    font-family: "Quicksand", cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    background-color: aquamarine;
+    padding-top: 10px;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px chartreuse solid;
+    outline: 1px white solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
+
